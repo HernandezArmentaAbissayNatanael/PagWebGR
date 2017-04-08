@@ -1,0 +1,77 @@
+body{
+        background-color:beige;    
+    }
+
+
+.opcion1{   
+            border-left: solid;
+            border-left-color: black;
+            border-bottom: solid;
+            border-bottom-color: black;
+            font-family: inherit;
+            width: 147%; 
+            height: 40px;
+            background-color: #C62A09;
+            font-family: inherit;
+            color: white;
+        }
+.opcion1:hover{background-color:white;
+               color: black;
+              }
+.opcion2{
+            border-left: solid;
+            border-left-color: black;
+            border-bottom: solid;
+            border-bottom-color: black;
+            width:147%; 
+            height: 40px;
+            background-color: #676160;
+            font-family: inherit;
+            color: white;
+        }
+.opcion2:hover{background-color:white;
+               color: black;
+              }
+.opcion3{
+            border-left: solid;
+            border-left-color: black;
+            border-bottom: solid;
+            border-bottom-color: black;
+            width:129%; 
+            height: 40px;
+            background-color: #676160;
+            font-family: inherit;
+            color: white;
+        }
+.opcion3:hover{background-color:white;
+               color: black;
+              }
+.opcion4{
+            border-left: solid;
+            border-left-color: black;
+            border-bottom: solid;
+            border-bottom-color: black;
+            width:129%; 
+            height: 40px;
+            background-color: #676160;
+            font-family: inherit;
+            color: white;
+        }
+.opcion4:hover{background-color:white;
+               color: black;
+              }
+.opcion5{
+            border-left: solid;
+            border-left-color: black;
+            border-bottom: solid;
+            border-bottom-color: black;
+            text-align: center;
+            width:117%; 
+            height: 40px;
+            background-color: #C62A09;
+            font-family: inherit;
+            color: white;
+        }
+.opcion5:hover{background-color:white;
+               color: black;
+              }
